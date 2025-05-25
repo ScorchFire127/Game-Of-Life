@@ -1,0 +1,42 @@
+Slithery Snakes
+├── .start.bat
+├── __pycache__
+│   ├── ai.cpython-310.pyc
+│   ├── config.cpython-310.pyc
+│   ├── entities.cpython-310.pyc
+│   ├── game.cpython-310.pyc
+│   ├── globals.cpython-310.pyc
+│   ├── renderer.cpython-310.pyc
+│   ├── ui.cpython-310.pyc
+│   └── utils.cpython-310.pyc
+├── ai
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-310.pyc
+│   │   ├── decision_making.cpython-310.pyc
+│   │   ├── learning_manager.cpython-310.pyc
+│   │   └── personalities.cpython-310.pyc
+│   ├── agent.py
+│   ├── ai.py
+│   ├── data
+│   │   ├── ai_bot_records.json
+│   │   ├── ai_learning.json
+│   │   └── settings.json
+│   ├── decision_making.py
+│   ├── learning_manager.py
+│   ├── marl_env.py
+│   ├── models
+│   └── personalities.py
+├── assets
+│   └── fonts
+│       └── arial.ttf
+├── config.py
+├── data
+│   └── settings.json
+├── entities.py
+├── game.py
+├── globals.py
+├── main.py
+├── renderer.py
+├── ui.py
+└── utils.py
